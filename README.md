@@ -1,5 +1,5 @@
 # hello_world
-Waxaanu ka hadba wixii aanu doono.
+Waxaanu ka hadli hadba wixii aanu doono.
 My background is a mixed of different knowledge in different aspects.
 I am a liguest, a writer, a poet.
 I like coding and have a compuer deviloping knowledge.
